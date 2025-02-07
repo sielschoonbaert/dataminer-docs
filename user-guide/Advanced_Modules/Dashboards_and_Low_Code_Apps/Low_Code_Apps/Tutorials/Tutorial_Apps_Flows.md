@@ -8,6 +8,10 @@ In this tutorial, you will learn how to create a [flow](xref:Using_flows), and u
 
 > [!NOTE]
 > This tutorial uses DataMiner web version 10.5.2.
+>
+> >[!TIP]
+>See also: [Kata #56: Introducing Flows](https://community.dataminer.services/courses/kata-56/) on DataMiner Dojo ![Video](~/user-guide/images/video_Duo.png)![image](https://github.com/user-attachments/assets/73a44b8c-d73f-44d2-a022-87b7d82d5d9f)
+
 
 ## Prerequisites
 
